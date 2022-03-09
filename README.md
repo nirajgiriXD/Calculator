@@ -1,1 +1,1 @@
-# calculator developed using C#
+# simple calculator developed using C#
